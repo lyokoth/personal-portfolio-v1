@@ -1,0 +1,24 @@
+{
+  "name": "personal-portfolio",
+  "version": "1.0.0",
+  "description": "lyn's personal portfolio",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lyokoth/personal-portfolio.git"
+  },
+  "keywords": [
+    "\"portfolio\"",
+    "\"website\"",
+    "developer\""
+  ],
+  "author": "Lynette Okoth",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lyokoth/personal-portfolio/issues"
+  },
+  "homepage": "https://github.com/lyokoth/personal-portfolio#readme"
+}
